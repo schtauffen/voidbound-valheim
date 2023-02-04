@@ -1,7 +1,7 @@
 # Voidbound Mods
 
-__WARNING__: It is highly recommended to backup your character and worlds folders prior to tinkering with mods, including installing this zip. To find these files, navigate to `C:\Users\&lt;Your Username&gt;\AppData\LocalLow\IronGate\Valheim`. There will be folders named `characters` and `worlds`. Make a copy of these (or just the files within them) somewhere on your computer to restore to in case something goes wrong.
-
+__WARNING__: It is highly recommended to backup your character and worlds folders prior to tinkering with mods, including installing this zip. To find these files, navigate to `C:\Users\<Your Username>\AppData\LocalLow\IronGate\Valheim` (or in the finder, type `%APPDATA%`, hit ENTER and then go up one folder. You will be in AppData folder. navigate to `LocalLow\IronGate\Valheim`). There will be folders named `characters` and `worlds`. Make a copy of these (or just the files within them) somewhere on your computer to restore to in case something goes wrong.
+ 
 These are the mods one should use when connecting to the voidbound server. 
 
 1. Ensure the Valheim game is not running
