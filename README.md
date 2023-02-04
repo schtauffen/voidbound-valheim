@@ -12,7 +12,7 @@ These are the mods one should use when connecting to the voidbound server.
 1. Ensure the Valheim game is not running
 1. In steam, navigate to Valheim. Click the configuration cog > Manage > Browse local files. This will open a folder similar to `C:\SteamLibrary\steamapps\common\Valheim`  
 ![Browse Local Files](steam-browse-local-files.png)
-1. [Download the zip](https://github.com/schtauffen/voidbound-valheim/releases/download/v1.0.0/Voidbound-Valheim-Mods.zip) to this folder and unzip it to this location. It should add several folders including `BepInEx` and `unstripped_corlib`
+1. [Download the zip](https://github.com/schtauffen/voidbound-valheim/releases/download/v1.1.0/Voidbound-Valheim-Mods.zip) to this folder and unzip it to this location. It should add several folders including `BepInEx` and `unstripped_corlib`
 1. Start Valheim! There should be a quick connect option for the Voidbound server in the top left corner. You must make a new character for playing on the server.
 
 ## Required Mods
@@ -27,6 +27,7 @@ This zip includes these mods which will match what the server is running. You co
 1. [ServerCharacters](https://valheim.thunderstore.io/package/Smoothbrain/ServerCharacters/)
 1. [Odin Campsite](https://www.nexusmods.com/valheim/mods/1765)
 1. [Equipment and Quick Slots](https://www.nexusmods.com/valheim/mods/92)
+1. [XPortal](https://valheim.thunderstore.io/package/SpikeHimself/XPortal/)
 
 
 ## Optional Mods
