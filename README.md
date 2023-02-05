@@ -27,7 +27,7 @@ This zip includes these mods which will match what the server is running. You co
 1. [ServerCharacters](https://valheim.thunderstore.io/package/Smoothbrain/ServerCharacters/)
 1. [Odin Campsite](https://www.nexusmods.com/valheim/mods/1765)
 1. [Equipment and Quick Slots](https://www.nexusmods.com/valheim/mods/92)
-1. [XPortal](https://valheim.thunderstore.io/package/SpikeHimself/XPortal/)
+1. [TargetPortal](https://valheim.thunderstore.io/package/Smoothbrain/TargetPortal/)
 
 
 ## Optional Mods
